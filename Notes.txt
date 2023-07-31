@@ -1,0 +1,32 @@
+Contents:
+//HTML Browser view - Debugger, Inspect,
+//Browser js vs Node js
+//Variables
+//Data types
+//Type Conversions (boolean -muthrasu)
+Window ==>js & document ==>DOM object
+
+Variables
+var  //redeclare and reassign 
+let  // cannot redeclare but can reassign
+Const // cannot redeclare and reassign
+
+Datatypes
+number,string,boolean,array,object
+number = 1,2,3.5
+string = "" / ''
+boolean = true/false 
+array = [1,"abc",true,{}]
+object =represented in key value pairs
+{
+    key: value
+}
+ Type Conversions
+ var a = "123"
+ var a = +"123" / parseInt("123")/parseFloat("12.3") 
+ var b = [1,2,3];
+ console.log(b.toString()); // "1","2","3"
+
+
+
+
